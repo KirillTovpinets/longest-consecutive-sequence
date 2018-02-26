@@ -4,7 +4,7 @@
   "description": "longest-consecutive-sequence for code battle",
   "main": "test.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha test.js -w"
   },
   "repository": {
     "type": "git",
